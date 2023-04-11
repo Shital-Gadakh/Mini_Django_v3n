@@ -1,0 +1,7 @@
+### Steps on Project
+Go to Gitbash on folder that we have created in Django project
+virtual venv
+.\env\Scripts\activate
+python manage.py
+pip install Django
+django-admin startproject mini_django_v3
